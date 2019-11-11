@@ -1,5 +1,6 @@
 ## Welcome to ucil's homepage!
 Feel free to bookmark this to keep an eye on my project updates
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 You can use the [editor on GitHub](https://github.com/sambron/ucil/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
